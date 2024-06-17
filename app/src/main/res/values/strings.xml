@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <string name="_00000">00000</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="the_flying_fish">The flying fish</string>
+    <string name="game_over">Game Over</string>
+    <string name="play_again">Play Again</string>
+    <string name="the_flyingfish">The Flying Fish</string>
+    <string name="score">score</string>
+    <string name="score_">score = %1$s</string>
+    <string name="score1">score = %1$s</string>
+</resources>
